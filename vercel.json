@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://github.com/$1"
+      "destination": "https://realaddr.ejianji.workers.dev/$1"
     }
   ]
 }
